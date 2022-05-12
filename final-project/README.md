@@ -14,13 +14,7 @@ Education spending, median household income, and unemployment are good predictor
 
 To do: 
 
-    - Scrape data for umemployment 
-    - make more graphs
-
 Graphs to make: 
-
-    - By year, crime rate vs each factor 
-    - 
 
   
 Interaction Factors and Machine Learning Aspect: 
